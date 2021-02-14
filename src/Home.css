@@ -1,0 +1,10 @@
+.hContainer{
+  display:flex;
+  background:url('./images/pexels-photo-305821.jpeg')center center/cover
+no-repeat;
+
+
+  height: 100vh;
+  width: 100%;
+  display: flex;
+}
